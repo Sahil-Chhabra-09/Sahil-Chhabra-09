@@ -1,63 +1,74 @@
-# 👋 Hey, I'm Sahil
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Sahil%20Chhabra&height=120&fontSize=50&desc=Software%20Engineer&descAlignY=75&descSize=18" />
+</p>
 
-I build fast, reliable, and scalable software—mostly in the world of React, Node.js, microservices, and AI-assisted systems.  
-I work across the stack, from polished frontends to distributed backend pipelines, and I enjoy designing clean architectures that stay maintainable as products grow.
+<br/>
+
+<!-- About -->
+<h3 align="center">Building fast, scalable, and clean software across frontend, backend, and AI-driven systems.</h3>
+
+<p align="center">
+I work at the intersection of React, Node.js, event-driven pipelines, and production-grade engineering.  
+Focused on performance, modular architecture, and long-term maintainability.
+</p>
 
 ---
 
-## 🚀 What I Do
-- Frontend engineering with **React, TypeScript, Redux Toolkit, TailwindCSS**
-- Backend engineering with **Node.js, Express, microservices, REST APIs**
-- Distributed pipelines using **Kafka**, event-driven services, and modular backends
-- Performance tuning: bundle-size reduction, render optimization, caching strategies
-- Designing responsive, production-ready UIs that work across desktop, mobile, and PWAs
-- Building internal component libraries and reusable interfaces
-- Collaborating with ML engineers to integrate AI inference into real-world products
+## 🚀 Tech Stack
 
----
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,vite" />
+</p>
 
-## 🛠 Tech Stack
+### **Backend & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,linux,nginx" />
+</p>
 
-**Frontend:**  
-React • TypeScript • JavaScript • Redux Toolkit • TailwindCSS • Vite/Webpack • RCL development
-
-**Backend:**  
-Node.js • Express • REST APIs • WebSockets • Microservices
-
-**Infra & Data:**  
-Kafka • MongoDB • Docker • CI/CD • Feature Flags • PM2
-
-**Other Tools:**  
-Git • Postman • Linux • Figma
+### **Tools & Workflow**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [CourseIt](https://courseit.in/)
-A social platform for course reviews and discovery.  
-MERN stack build with scalable APIs, responsive UI, authentication flows, and community-driven content.
+### 🔹 **CourseIt** — *Course Review & Discovery Platform*  
+🔗 https://courseit.in/  
+Full MERN-stack social platform for course ratings, user-generated reviews, and discovery feeds.
 
 ---
 
-### 🔹 [Time Horizon](https://sahil-chhabra-09.github.io/time-horizon/)
-A visual timeline for managing life’s commitments.  
-Built with React + Vite + Lucide-react, featuring timezone-aware rendering, CRUD tasks, category filters, and a fully responsive interface.
+### 🔹 **Time Horizon** — *Visual Timeline & Task System*  
+🔗 https://sahil-chhabra-09.github.io/time-horizon/  
+React + Vite timeline visualizer with timezone-aware rendering, CRUD tasks, filters, and clean responsive UI.
 
 ---
 
-## 📈 GitHub Stats (Auto-Generated)
+## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chhabra-09&show_icons=true&theme=default" />
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/sahil-chhabra-9a6310227/  
-- **Email:** sahil.chh718@gmail.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chhabra-09&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chhabra-09&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-Crafting reliable systems, one clean commit at a time.  
-Let’s build something interesting.
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-chhabra-9a6310227/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;
+  <a href="mailto:sahil.chh718@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  &nbsp;
+  <a href="https://github.com/Sahil-Chhabra-09"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  Crafting clean systems, one thoughtful commit at a time.
+</p>
