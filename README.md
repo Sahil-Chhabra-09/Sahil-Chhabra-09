@@ -46,14 +46,6 @@ Full MERN-stack social platform for course ratings, user-generated reviews, and 
 🔗 https://sahil-chhabra-09.github.io/time-horizon/  
 React + Vite timeline visualizer with timezone-aware rendering, CRUD tasks, filters, and clean responsive UI.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chhabra-09&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chhabra-09&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
